@@ -41,7 +41,7 @@ To run these scripts, you need:
     bash fqb_to_discbracket.sh
 
     # Generate a discontinuous version of the FTB
-    #   needs surf.ftb.np_conll FRENCH_SPMRL.tar.gz in 
+    #   needs surf.ftb.np_conll FRENCH_SPMRL.tar.gz in root directory
     bash ftb_to_discbracket.sh
 
     # This line generates the parsing data used in Coavoux and Crabbé (TALN 2017)
