@@ -2,7 +2,8 @@
 
 if ! [ -e sequoia-7.0.tgz ]
 then
-    wget http://talc2.loria.fr/deep-sequoia/sequoia-7.0.tgz
+    #wget http://talc2.loria.fr/deep-sequoia/sequoia-7.0.tgz
+    wget http://deep-sequoia.inria.fr/download/sequoia-7.0.tgz
     tar zxvf sequoia-7.0.tgz
 fi
 
